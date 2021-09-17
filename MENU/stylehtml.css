@@ -1,0 +1,54 @@
+body{
+    padding: 1.5em;
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    background-size:  cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#titulo{
+    width: 60%;
+    float: right;
+    text-align: center;
+}
+#logo{
+    text-align: center;
+    float: left;
+    
+}
+header{
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    padding: 7em;
+    color: lightcyan;  
+}
+section{
+    border: solid 7px rgba(255, 0, 0, 0.425); 
+    margin-left: 2em;
+    width: 65%;
+    float: left;
+    padding: 1.5em;
+}
+aside{
+    border: solid 4px rgb(136, 133, 94);
+    margin-right: 2em;
+    width: 20%;
+    float: right;
+    padding: 1.5em;
+}
+article{
+    border: solid 4px rosybrown;
+    margin-top: 1em, 1em, 1em 1em;
+    padding: 1em;
+    
+}
+a > img{
+    margin: 1em;
+    border: dotted 2px rgb(255, 251, 3);
+}
+ul{
+    list-style-type: square;
+}
+p{
+    color: white;
+}

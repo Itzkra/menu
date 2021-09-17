@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    width: 90%;
+    margin: auto;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center ;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+h2:hover{
+    color: rgb(160, 221, 175);
+
+}
+#contenido{
+    border: 5px rgb(173, 255, 47);
+    margin-top: 20px;
+}
+    
+p{
+    text-align: left;
+    border: purple 3px solid;
+    margin: 2%;
+    padding: px;
+    color: royalblue;
+}
+#titulo{
+    border: 5px solid crimson; 
+}
